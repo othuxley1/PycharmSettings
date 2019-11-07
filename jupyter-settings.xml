@@ -5,8 +5,7 @@
         <entry key="$USER_HOME$/Documents/GitRepos/PHY346_NationalGrid_2019/.idea/PHY346_NationalGrid_2019.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="token" value="b872986332b9df694ca3afff965017aedd681aeb418e068e" />
-              <option name="urlString" value="http://localhost:8888/" />
+              <option name="managed" value="true" />
             </JupyterConnectionParameters>
           </value>
         </entry>
