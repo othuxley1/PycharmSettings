@@ -6,6 +6,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="install_rate.py" type="PLAIN_TEXT" />
       <mapping pattern=".mapbox_token" type="PLAIN_TEXT" />
+      <mapping ext="nationalgrid" type="PLAIN_TEXT" />
       <mapping ext="monte_carlo_sample_size_analysis" type="PLAIN_TEXT" />
       <mapping pattern="PVSystem" type="Python" />
       <mapping pattern="site_list_config_writer" type="Python" />
